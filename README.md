@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thishani Wijayaratne
-- 👀 I’m interested in Machine Learning, Network Programming, and Web Programming
+- 👋 Hi, I’m Thishani Wijayaratne.
+- 👀 I’m interested in Machine Learning, Network Programming, and Web Programming.
 - 🌱 I’m currently learning C and C++ for a Network Programming Project.
 - 📫 You can reach me at: anuradha.thishani@gmail.com
 
