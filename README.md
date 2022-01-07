@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thishani Wijayaratne.
 - 👀 I’m interested in Machine Learning, Network Programming, and Web Programming.
-- 🌱 I’m currently learning C and C++ for a Network Programming Project.
+- 🌱 I’m currently learning C and C++ to implement a Software-Defined Wide Area Network testbed (group project).
 - 📫 You can reach me at: anuradha.thishani@gmail.com
 
 <!--- 💞️ I’m looking to collaborate on ... --->
